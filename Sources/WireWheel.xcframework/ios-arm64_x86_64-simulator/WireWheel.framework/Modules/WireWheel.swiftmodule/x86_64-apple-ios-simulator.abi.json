@@ -16,8 +16,8 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
+        "name": "Foundation",
+        "printedName": "Foundation",
         "declKind": "Import",
         "moduleName": "WireWheel",
         "declAttributes": [
@@ -25,36 +25,17 @@
         ]
       },
       {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "WireWheel"
+      },
+      {
         "kind": "TypeDecl",
-        "name": "ConnectorViewController",
-        "printedName": "ConnectorViewController",
+        "name": "WireWheel",
+        "printedName": "WireWheel",
         "children": [
-          {
-            "kind": "Function",
-            "name": "viewDidLoad",
-            "printedName": "viewDidLoad()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@M@WireWheel@objc(cs)ConnectorViewController(im)viewDidLoad",
-            "mangledName": "$s9WireWheel23ConnectorViewControllerC11viewDidLoadyyF",
-            "moduleName": "WireWheel",
-            "overriding": true,
-            "objc_name": "viewDidLoad",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Custom",
-              "Override",
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
           {
             "kind": "Function",
             "name": "configure",
@@ -73,187 +54,22 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:9WireWheel23ConnectorViewControllerC9configure4viewySo06UIViewE0C_tFZ",
-            "mangledName": "$s9WireWheel23ConnectorViewControllerC9configure4viewySo06UIViewE0C_tFZ",
+            "usr": "s:9WireWheelAAV9configure4viewySo16UIViewControllerC_tFZ",
+            "mangledName": "$s9WireWheelAAV9configure4viewySo16UIViewControllerC_tFZ",
             "moduleName": "WireWheel",
             "static": true,
             "declAttributes": [
-              "Custom",
-              "Final",
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(nibName:bundle:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "ConnectorViewController",
-                "printedName": "WireWheel.ConnectorViewController",
-                "usr": "c:@M@WireWheel@objc(cs)ConnectorViewController"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Foundation.Bundle?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Bundle",
-                    "printedName": "Foundation.Bundle",
-                    "usr": "c:objc(cs)NSBundle"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@WireWheel@objc(cs)ConnectorViewController(im)initWithNibName:bundle:",
-            "mangledName": "$s9WireWheel23ConnectorViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
-            "moduleName": "WireWheel",
-            "overriding": true,
-            "implicit": true,
-            "objc_name": "initWithNibName:bundle:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Custom",
-              "Override"
-            ],
-            "init_kind": "Designated"
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(coder:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "WireWheel.ConnectorViewController?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "ConnectorViewController",
-                    "printedName": "WireWheel.ConnectorViewController",
-                    "usr": "c:@M@WireWheel@objc(cs)ConnectorViewController"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "NSCoder",
-                "printedName": "Foundation.NSCoder",
-                "usr": "c:objc(cs)NSCoder"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@WireWheel@objc(cs)ConnectorViewController(im)initWithCoder:",
-            "mangledName": "$s9WireWheel23ConnectorViewControllerC5coderACSgSo7NSCoderC_tcfc",
-            "moduleName": "WireWheel",
-            "overriding": true,
-            "implicit": true,
-            "objc_name": "initWithCoder:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Custom",
-              "Required"
-            ],
-            "init_kind": "Designated"
           }
         ],
-        "declKind": "Class",
-        "usr": "c:@M@WireWheel@objc(cs)ConnectorViewController",
-        "mangledName": "$s9WireWheel23ConnectorViewControllerC",
+        "declKind": "Struct",
+        "usr": "s:9WireWheelAAV",
+        "mangledName": "$s9WireWheelAAV",
         "moduleName": "WireWheel",
         "declAttributes": [
-          "Custom",
-          "AccessControl",
-          "ObjC"
-        ],
-        "superclassUsr": "c:objc(cs)UIViewController",
-        "inheritsConvenienceInitializers": true,
-        "superclassNames": [
-          "UIKit.UIViewController",
-          "UIKit.UIResponder",
-          "ObjectiveC.NSObject"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Sendable",
-            "printedName": "Sendable",
-            "usr": "s:s8SendableP",
-            "mangledName": "$ss8SendableP"
-          }
+          "AccessControl"
         ]
       },
       {
@@ -466,23 +282,23 @@
       "value": "true"
     },
     {
-      "filePath": "\/Users\/ankitpanwar\/Desktop\/Workspace\/Practice\/SDK\/Framework\/WireWheel\/WireWheel\/ViewController\/ConnectorViewController.swift",
+      "filePath": "\/Users\/ankitpanwar\/Desktop\/Workspace\/Practice\/SDK\/Framework\/WireWheel\/WireWheel\/Utilities\/WireWheel.swift",
       "kind": "StringLiteral",
-      "offset": 356,
+      "offset": 253,
       "length": 6,
       "value": "\"Form\""
     },
     {
-      "filePath": "\/Users\/ankitpanwar\/Desktop\/Workspace\/Practice\/SDK\/Framework\/WireWheel\/WireWheel\/ViewController\/ConnectorViewController.swift",
+      "filePath": "\/Users\/ankitpanwar\/Desktop\/Workspace\/Practice\/SDK\/Framework\/WireWheel\/WireWheel\/Utilities\/WireWheel.swift",
       "kind": "StringLiteral",
-      "offset": 467,
+      "offset": 358,
       "length": 20,
       "value": "\"ListViewController\""
     },
     {
-      "filePath": "\/Users\/ankitpanwar\/Desktop\/Workspace\/Practice\/SDK\/Framework\/WireWheel\/WireWheel\/ViewController\/ConnectorViewController.swift",
+      "filePath": "\/Users\/ankitpanwar\/Desktop\/Workspace\/Practice\/SDK\/Framework\/WireWheel\/WireWheel\/Utilities\/WireWheel.swift",
       "kind": "BooleanLiteral",
-      "offset": 559,
+      "offset": 450,
       "length": 4,
       "value": "true"
     },

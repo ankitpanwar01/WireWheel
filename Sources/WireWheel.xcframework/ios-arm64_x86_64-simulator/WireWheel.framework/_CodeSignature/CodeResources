@@ -22,7 +22,7 @@
 		</data>
 		<key>Headers/WireWheel-Swift.h</key>
 		<data>
-		SpKlNPLNqy1qTA4PZ7lHsUzyvBU=
+		10e4YdRk13m5EZnSiu+1xsJIneE=
 		</data>
 		<key>Headers/WireWheel.h</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/WireWheel.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		3eoggX7lWK91wA6xI2Guov90vy4=
+		J0VOnSq9kOnP97t3n4u/V/LIBqM=
 		</data>
 		<key>Modules/WireWheel.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		spYMO/ffklZJsCeHiN7kNUe6PqM=
+		HymCSw8/oILJdGkg8bs0UTLamG8=
 		</data>
 		<key>Modules/WireWheel.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,19 +46,19 @@
 		</data>
 		<key>Modules/WireWheel.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		spYMO/ffklZJsCeHiN7kNUe6PqM=
+		HymCSw8/oILJdGkg8bs0UTLamG8=
 		</data>
 		<key>Modules/WireWheel.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		kDGKNXv3DSTfFTXnLjFTd94bw5c=
+		zCneSHFGILWXFu4e3YeO7v5HgYs=
 		</data>
 		<key>Modules/WireWheel.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		3eoggX7lWK91wA6xI2Guov90vy4=
+		J0VOnSq9kOnP97t3n4u/V/LIBqM=
 		</data>
 		<key>Modules/WireWheel.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		mojbQu0yXNLLCEuP3yADUH/BXrc=
+		K+8xmaVsigxtGdXZWkR5zntIwFw=
 		</data>
 		<key>Modules/WireWheel.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -66,11 +66,11 @@
 		</data>
 		<key>Modules/WireWheel.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		mojbQu0yXNLLCEuP3yADUH/BXrc=
+		K+8xmaVsigxtGdXZWkR5zntIwFw=
 		</data>
 		<key>Modules/WireWheel.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		3yJPENvlffbED58MS7fx8uu0l5c=
+		hjrt/fNpje2XA5dKVzZ+ING2wFs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -111,7 +111,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QiLQ5q02mqWsEpirgt4PB3DEzD3ZXMUGyT7vAthT1Co=
+			JDMsvtYctMubTBkXIdeXs8GAzm/LtW/7GtFf4dhB2Go=
 			</data>
 		</dict>
 		<key>Headers/WireWheel.h</key>
@@ -125,14 +125,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QGJ1MtFi5X2yLOpn+wq+A7iw+kJmIBlekpwXFdP2zmg=
+			t0a4swX+W84YfYb4dn5TXdrS2a88hrvKREtaaxXm/sc=
 			</data>
 		</dict>
 		<key>Modules/WireWheel.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hHgv5iHBseJE54PoGb3n+DuzhwVBLoTyn/vjVhQekNA=
+			ZCyfWdnYYi7dwzQYjo0Ucuo3nrBmvlQAWNOINk+DeVU=
 			</data>
 		</dict>
 		<key>Modules/WireWheel.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -146,28 +146,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hHgv5iHBseJE54PoGb3n+DuzhwVBLoTyn/vjVhQekNA=
+			ZCyfWdnYYi7dwzQYjo0Ucuo3nrBmvlQAWNOINk+DeVU=
 			</data>
 		</dict>
 		<key>Modules/WireWheel.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lhMD4bJrRzf4iRfwzBoRAXKwJ+MksiIs7YSwyW4e9m4=
+			LXVxKnFXpoudBGnIvle+/TmqVDrOdUY3bMIcIxr36GM=
 			</data>
 		</dict>
 		<key>Modules/WireWheel.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QGJ1MtFi5X2yLOpn+wq+A7iw+kJmIBlekpwXFdP2zmg=
+			t0a4swX+W84YfYb4dn5TXdrS2a88hrvKREtaaxXm/sc=
 			</data>
 		</dict>
 		<key>Modules/WireWheel.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hdiwYwNBthyzYP2XuNiK+QDhUwbeBURyV37bmGxSe0Q=
+			dGATKEOvBkrSnZYK4uraUT2Q/4uiUhC63ACghkLn3ng=
 			</data>
 		</dict>
 		<key>Modules/WireWheel.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -181,14 +181,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hdiwYwNBthyzYP2XuNiK+QDhUwbeBURyV37bmGxSe0Q=
+			dGATKEOvBkrSnZYK4uraUT2Q/4uiUhC63ACghkLn3ng=
 			</data>
 		</dict>
 		<key>Modules/WireWheel.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dJJO624z7EJ59KA6CnlGWi2FiUmeng5gfcIyRVjNTdc=
+			S2t33pDDZftXhaWK7RED4FTCVtD9I9F+EVTW3KuFOEM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

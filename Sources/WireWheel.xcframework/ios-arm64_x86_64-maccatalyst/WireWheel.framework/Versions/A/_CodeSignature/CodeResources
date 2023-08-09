@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/DashboardViewController.nib</key>
 		<data>
-		HEfR3U0TjhLOy+aFWTCQzWRTbHg=
+		BU+w8fClnS3K3iIcwlH8kITkfNs=
 		</data>
 		<key>Resources/Form.storyboardc/Info.plist</key>
 		<data>
@@ -31,7 +31,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QiLQ5q02mqWsEpirgt4PB3DEzD3ZXMUGyT7vAthT1Co=
+			JDMsvtYctMubTBkXIdeXs8GAzm/LtW/7GtFf4dhB2Go=
 			</data>
 		</dict>
 		<key>Headers/WireWheel.h</key>
@@ -45,14 +45,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QGJ1MtFi5X2yLOpn+wq+A7iw+kJmIBlekpwXFdP2zmg=
+			t0a4swX+W84YfYb4dn5TXdrS2a88hrvKREtaaxXm/sc=
 			</data>
 		</dict>
 		<key>Modules/WireWheel.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ovv6VvBzTi6OsEGc2UkYwwOEABMRTn0HlYD6c7NLuM4=
+			uf2u8a3YGjHEW9PbWK5HWAhqbzID5wVaV/qXmPf56fA=
 			</data>
 		</dict>
 		<key>Modules/WireWheel.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
@@ -66,28 +66,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ovv6VvBzTi6OsEGc2UkYwwOEABMRTn0HlYD6c7NLuM4=
+			uf2u8a3YGjHEW9PbWK5HWAhqbzID5wVaV/qXmPf56fA=
 			</data>
 		</dict>
 		<key>Modules/WireWheel.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BHA+ivaqzuxwA5l7+TWSMhy74L+zWYLL5CvlKEhS/7E=
+			ck65gU101YNXhe3uGmHWK8MxS/MrJqfdRBs8FOn6/ew=
 			</data>
 		</dict>
 		<key>Modules/WireWheel.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QGJ1MtFi5X2yLOpn+wq+A7iw+kJmIBlekpwXFdP2zmg=
+			t0a4swX+W84YfYb4dn5TXdrS2a88hrvKREtaaxXm/sc=
 			</data>
 		</dict>
 		<key>Modules/WireWheel.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ii1x++rUeWjjXeueei9Ldl+VBjwBYSRjAPPf8YpL4r8=
+			D9TvFdYS+Ts8Ht4Ud5Sq1TE1Jcll6LhM9GSPBOfdsZo=
 			</data>
 		</dict>
 		<key>Modules/WireWheel.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
@@ -101,14 +101,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ii1x++rUeWjjXeueei9Ldl+VBjwBYSRjAPPf8YpL4r8=
+			D9TvFdYS+Ts8Ht4Ud5Sq1TE1Jcll6LhM9GSPBOfdsZo=
 			</data>
 		</dict>
 		<key>Modules/WireWheel.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			89vhsbS++kI6AcltDys6BH1NjfyImqGwQQUbwO4Q490=
+			FRXmPVLL+FNankD7AZujWcGED32pRHYceVUbzviJjsY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -122,7 +122,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QD1HUOq0frn8xv6wbSAZiCa9RmCXW+FMymN7++GqzvM=
+			3Vm5gEyrIrmODA9jWLtYtpcORY4SHSJpK35oy7URQoE=
 			</data>
 		</dict>
 		<key>Resources/Form.storyboardc/Info.plist</key>

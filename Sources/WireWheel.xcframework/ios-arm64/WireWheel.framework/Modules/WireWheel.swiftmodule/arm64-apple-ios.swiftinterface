@@ -2,17 +2,14 @@
 // swift-compiler-version: Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)
 // swift-module-flags: -target arm64-apple-ios16.4 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name WireWheel
 // swift-module-flags-ignorable: -enable-bare-slash-regex
+import Foundation
 import Swift
 import UIKit
 @_exported import WireWheel
 import _Concurrency
 import _StringProcessing
-@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class ConnectorViewController : UIKit.UIViewController {
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
-  @_Concurrency.MainActor(unsafe) public static func configure(view: UIKit.UIViewController)
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
-  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
-  @objc deinit
+public struct WireWheel {
+  public static func configure(view: UIKit.UIViewController)
 }
 @objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class DashboardViewController : UIKit.UIViewController {
   @_Concurrency.MainActor(unsafe) @objc dynamic public init()
