@@ -20,6 +20,32 @@
         "printedName": "DashboardViewController",
         "children": [
           {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "DashboardViewController",
+                "printedName": "WireWheel.DashboardViewController",
+                "usr": "c:@M@WireWheel@objc(cs)DashboardViewController"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@WireWheel@objc(cs)DashboardViewController(im)init",
+            "mangledName": "$s9WireWheel23DashboardViewControllerCACycfc",
+            "moduleName": "WireWheel",
+            "overriding": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
             "kind": "Function",
             "name": "viewDidLoad",
             "printedName": "viewDidLoad()",
@@ -99,47 +125,6 @@
               "Override"
             ],
             "init_kind": "Designated"
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(coder:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "WireWheel.DashboardViewController?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "DashboardViewController",
-                    "printedName": "WireWheel.DashboardViewController",
-                    "usr": "c:@M@WireWheel@objc(cs)DashboardViewController"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "NSCoder",
-                "printedName": "Foundation.NSCoder",
-                "usr": "c:objc(cs)NSCoder"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@WireWheel@objc(cs)DashboardViewController(im)initWithCoder:",
-            "mangledName": "$s9WireWheel23DashboardViewControllerC5coderACSgSo7NSCoderC_tcfc",
-            "moduleName": "WireWheel",
-            "overriding": true,
-            "implicit": true,
-            "objc_name": "initWithCoder:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Custom",
-              "Required"
-            ],
-            "init_kind": "Designated"
           }
         ],
         "declKind": "Class",
@@ -152,7 +137,7 @@
           "ObjC"
         ],
         "superclassUsr": "c:objc(cs)UIViewController",
-        "inheritsConvenienceInitializers": true,
+        "hasMissingDesignatedInitializers": true,
         "superclassNames": [
           "UIKit.UIViewController",
           "UIKit.UIResponder",
@@ -216,10 +201,31 @@
   "ConstValues": [
     {
       "filePath": "\/Users\/ankitpanwar\/Desktop\/Workspace\/Practice\/SDK\/Framework\/WireWheel\/WireWheel\/ViewController\/DashboardViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 219,
+      "length": 25,
+      "value": "\"DashboardViewController\""
+    },
+    {
+      "filePath": "\/Users\/ankitpanwar\/Desktop\/Workspace\/Practice\/SDK\/Framework\/WireWheel\/WireWheel\/ViewController\/DashboardViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 368,
+      "length": 39,
+      "value": "\"init(coder:) has not been implemented\""
+    },
+    {
+      "filePath": "\/Users\/ankitpanwar\/Desktop\/Workspace\/Practice\/SDK\/Framework\/WireWheel\/WireWheel\/ViewController\/DashboardViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 445,
+      "offset": 578,
       "length": 4,
       "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ankitpanwar\/Desktop\/Workspace\/Practice\/SDK\/Framework\/WireWheel\/WireWheel\/ViewController\/DashboardViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 126,
+      "length": 23,
+      "value": "\"WireWheel.DashboardViewController\""
     }
   ]
 }
