@@ -31,7 +31,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JDMsvtYctMubTBkXIdeXs8GAzm/LtW/7GtFf4dhB2Go=
+			qAcmF90uHyCwlLyt/CNfO4jL289TLtrFM2c8k+6HCFs=
 			</data>
 		</dict>
 		<key>Headers/WireWheel.h</key>
@@ -45,14 +45,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			t0a4swX+W84YfYb4dn5TXdrS2a88hrvKREtaaxXm/sc=
+			ECs2UHn9x+ABCvMvbHz7f3MxqNZIj1K+lVbDxbJ7HrY=
 			</data>
 		</dict>
 		<key>Modules/WireWheel.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uf2u8a3YGjHEW9PbWK5HWAhqbzID5wVaV/qXmPf56fA=
+			oMUBYqZTgIDWJRHuF56kfqAr2+p0WcFDaQC7jYNSu2o=
 			</data>
 		</dict>
 		<key>Modules/WireWheel.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
@@ -66,28 +66,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uf2u8a3YGjHEW9PbWK5HWAhqbzID5wVaV/qXmPf56fA=
+			oMUBYqZTgIDWJRHuF56kfqAr2+p0WcFDaQC7jYNSu2o=
 			</data>
 		</dict>
 		<key>Modules/WireWheel.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ck65gU101YNXhe3uGmHWK8MxS/MrJqfdRBs8FOn6/ew=
+			E/+cPGe/n6oFFpUAFOKMQB540qVpeOBWVZemObpXWuE=
 			</data>
 		</dict>
 		<key>Modules/WireWheel.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			t0a4swX+W84YfYb4dn5TXdrS2a88hrvKREtaaxXm/sc=
+			ECs2UHn9x+ABCvMvbHz7f3MxqNZIj1K+lVbDxbJ7HrY=
 			</data>
 		</dict>
 		<key>Modules/WireWheel.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			D9TvFdYS+Ts8Ht4Ud5Sq1TE1Jcll6LhM9GSPBOfdsZo=
+			CzHqxBh/h+IOcdpr5nBUfqGP+dHX1yRYsQFaVHRQ7uk=
 			</data>
 		</dict>
 		<key>Modules/WireWheel.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
@@ -101,14 +101,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			D9TvFdYS+Ts8Ht4Ud5Sq1TE1Jcll6LhM9GSPBOfdsZo=
+			CzHqxBh/h+IOcdpr5nBUfqGP+dHX1yRYsQFaVHRQ7uk=
 			</data>
 		</dict>
 		<key>Modules/WireWheel.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FRXmPVLL+FNankD7AZujWcGED32pRHYceVUbzviJjsY=
+			1DBZ0oezoRI2f1DxuNV8/wPsKDWmL9Arma5Bqddghzo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
