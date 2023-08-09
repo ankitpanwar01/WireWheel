@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/WireWheel.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		Kmm6stqivG2bNnxhm+55QpdjIFc=
+		cCfGZgmU8tOctMLvsB7J7ZwwdwY=
 		</data>
 		<key>Modules/WireWheel.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/WireWheel.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		Kmm6stqivG2bNnxhm+55QpdjIFc=
+		cCfGZgmU8tOctMLvsB7J7ZwwdwY=
 		</data>
 		<key>Modules/WireWheel.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -125,7 +125,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dqDrRzdvyFCGx625I85c3+oLPmZg2z+S3WSP9IBSYi0=
+			oZZbg59jhV7aRw3EdNfFBTSgg6TEPcq+nr34LVzoHPk=
 			</data>
 		</dict>
 		<key>Modules/WireWheel.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -160,7 +160,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dqDrRzdvyFCGx625I85c3+oLPmZg2z+S3WSP9IBSYi0=
+			oZZbg59jhV7aRw3EdNfFBTSgg6TEPcq+nr34LVzoHPk=
 			</data>
 		</dict>
 		<key>Modules/WireWheel.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
